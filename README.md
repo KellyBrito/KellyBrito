@@ -2,6 +2,10 @@
 - 👷‍♀️ Sou engenheira civil determinada a integrar a engenharia com a programação.
 - 💻 Atualmente, estou focada em aprimorar minhas habilidades em JavaScript.
 
+
+
+![KellyBrito GitHub stats](https://github-readme-stats.vercel.app/api?username=KellyBrito&show_icons=true&theme=radical)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -12,8 +16,6 @@
   
   ##
  
-<div> 
-  <a href="https://instagram.com/kellydbrito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/kelly-daianne-de-brito-5619372a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+[![facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-daianne-de-brito-5619372a5/)
+[![linkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kellydaianne.debrito?mibextid=JRoKGi/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kellydbrito/)
